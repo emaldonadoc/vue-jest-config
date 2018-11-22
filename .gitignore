@@ -1,0 +1,9 @@
+## FOLDERS
+node_modules/
+coverage/
+
+### FILES
+npm-debug.log
+package-lock.json
+dist/*.js
+dist/*.css
